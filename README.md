@@ -1,3 +1,5 @@
+- this can be used in Capstone
+
 <h1><a href="https://github.com/aceberg/WatchYourLAN">
     <img src="https://raw.githubusercontent.com/aceberg/WatchYourLAN/main/assets/logo.png" width="20" />
 </a>WatchYourLAN</h1>
@@ -212,3 +214,5 @@ Moved to [docs/API.md](https://github.com/aceberg/WatchYourLAN/blob/main/docs/AP
 - Themes: [Free themes for Bootstrap](https://bootswatch.com)
 
 </details> 
+
+
